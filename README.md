@@ -31,7 +31,7 @@ print(expected_result3)
 # question6
 my_set={0,1,2,3,4}
 for item in my_set:
-    pass
+    print(item)
 my_set.add(5)
 my_set.add(6)
 my_set.discard(0)
